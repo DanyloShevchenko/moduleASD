@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e89b7d-347e-4f9a-b774-46e9e83faed6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFZd7atgZe7799Gyya3Wlef6mz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="mk asd 1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e89b7d-347e-4f9a-b774-46e9e83faed6" name="Default Changelist" comment="" />
+      <created>1586333386084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586333386084</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1586339469868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586339469868" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1586343283519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586343283519" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586343612361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586343612361" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1586339487064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586339487064" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1586347441245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586347441245" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1586347441245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586347441245" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1586347441245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586347441245" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1586347441245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586347441245" />
+    <state width="1493" height="502" key="GridCell.Tab.1.bottom" timestamp="1586344480221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="502" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586344480221" />
+    <state width="1493" height="502" key="GridCell.Tab.1.center" timestamp="1586344480221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="502" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586344480221" />
+    <state width="1493" height="502" key="GridCell.Tab.1.left" timestamp="1586344480221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="502" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586344480221" />
+    <state width="1493" height="502" key="GridCell.Tab.1.right" timestamp="1586344480221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="502" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586344480221" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1586338359440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586338359440" />
+  </component>
+</project>
